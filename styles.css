@@ -109,8 +109,8 @@ text-align: center;
 .iframe_video {
   display: block;
   margin: 0 auto;
-  width:32rem;
-  height: 18rem;
+  width: 48rem;
+  height: 27rem;
 }
 
 @media (max-width: 600px) {
